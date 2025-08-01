@@ -10,7 +10,7 @@
 
 I'm a tech enthusiast with a strong foundation in frontend development and software testing (both manual and automated). I enjoy building user-friendly interfaces, writing clean code, and ensuring software quality. I actively collaborate on team projects and value continuous learning.
 
-Currently developing **CanchaWasi**, a web platform for booking sports fields.
+
 
 ---
 
